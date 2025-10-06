@@ -9,7 +9,7 @@
 - 🧰 **Tiny Tools** – Small utility scripts & experiments
 
 ## 🧰 Tech Stack
-**Languages:** Python · JavaScript/TypeScript · SQL · HTML/CSS · C++  
+**Languages:** Python · JavaScript/TypeScript · SQL · HTML/CSS · C++ · Java  
 **Frameworks:** FastAPI · React · Next.js · Node.js  
 **Data/ML:** Pandas · scikit-learn · LangChain · OpenAI API  
 **Cloud & Tools:** GitHub Actions · Docker · Vercel · Supabase · Firebase
