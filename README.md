@@ -18,7 +18,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🎮 Achi Game](https://github.com/LFGHcoder/Achi) | A Tic Tac Toe variant with simple algorithmic logic | Python / JS |
-| [🤖 IG Engagement Bot](#) | Framework for Graph API-based engagement | FastAPI, APScheduler |
+| [🤖 IG Engagement Bot](https://github.com/LFGHcoder/Projects) | Framework for Graph API-based engagement | FastAPI, APScheduler |
 | [🧠 Alvora.ai](#) | Personal AI project for career exploration | Next.js, FastAPI, OpenAI |
 
 ## 🛣 Goals
