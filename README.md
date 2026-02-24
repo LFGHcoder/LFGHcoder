@@ -1,31 +1,44 @@
-# 👋 Hi, I'm Lakshya Pandey
+# Hello i am Lakshya Pandey
 
-> 🧠 Developer passionate about building tools, solving problems, and shipping ideas.  
-> 👨‍💻 Worked on Alvora.ai, a personal AI project focused on career guidance for students.
+Computer Science Student focused on Backend Systems & Applied AI
 
-## 🚀 What I'm Building
-- 🤖 **Instagram Engagement Bot** – FastAPI framework for safe, compliant IG interactions  
-- 🎮 **Achi Game** – A Tic Tac Toe variant to practice algorithms & game design  
-- 🧰 **Tiny Tools** – Small utility scripts & experiments
+I build backend services, automation tools, and AI-powered applications.
+Currently improving system design fundamentals and scalable API architecture.
 
-## 🧰 Tech Stack
-**Languages:** Python · JavaScript/TypeScript · SQL · HTML/CSS · C++ · Java  
-**Frameworks:** FastAPI · React · Next.js · Node.js  
-**Data/ML:** Pandas · scikit-learn · LangChain · OpenAI API  
-**Cloud & Tools:** GitHub Actions · Docker · Vercel · Supabase · Firebase
+---
 
-## 🌟 Featured Projects
+## Selected Projects
+
 | Project | Description | Tech |
-|---------|-------------|------|
-| [🎮 Achi Game](https://github.com/LFGHcoder/Achi) | A Tic Tac Toe variant with simple algorithmic logic | Python / JS |
-| [🤖 IG Engagement Bot](https://github.com/LFGHcoder/Projects) | Framework for Graph API-based engagement | FastAPI, APScheduler |
-| [🧠 Alvora.ai](#) | Personal AI project for career exploration | Next.js, FastAPI, OpenAI |
+|----------|-------------|------|
+| **Research Validator** | AI-powered system for analyzing and structuring research credibility signals | FastAPI · LLM Integration · Data Processing |
+| **Alvora.ai** | AI-driven career exploration platform integrating structured LLM workflows | Next.js · FastAPI · OpenAI API |
+| **Instagram Automation Framework** | Backend automation service with scheduled workflows and API integrations | FastAPI · APScheduler |
+| **Achi Game** | Algorithm-focused Tic Tac Toe variant exploring logic & state management | Python · JavaScript |
 
-## 🛣 Goals
-- ✅ Build impactful side projects  
-- 💼 Join a team where I can grow as a backend/AI developer  
-- ✨ Keep learning and shipping
+---
 
-## 📬 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/lakshya-pandey-)  
-- ✉️ Email: lakshyapandey242@gmail.com
+## Technical Stack
+
+**Languages:** Python · TypeScript · JavaScript · SQL · C++ · Java  
+
+**Backend & Web:** FastAPI · Node.js · Next.js · React  
+
+**AI & Data:** Pandas · scikit-learn · LangChain · OpenAI API  
+
+**Tools & Cloud:** Docker · GitHub Actions · Supabase · Firebase · Vercel  
+
+---
+
+## Current Focus
+
+- Backend architecture fundamentals  
+- AI system integration  
+- Writing cleaner, production-ready code  
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/lakshya-pandey-  
+Email: lakshyapandey242@gmail.com
