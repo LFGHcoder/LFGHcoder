@@ -1,9 +1,8 @@
-# Hello i am Lakshya Pandey
+# Lakshya Pandey
 
-Computer Science Student focused on Backend Systems & Applied AI
+Computer Science student focused on **AI-driven automation systems, backend engineering, and data pipelines**.
 
-I build backend services, automation tools, and AI-powered applications.
-Currently improving system design fundamentals and scalable API architecture.
+I build systems that combine LLMs, structured workflows, and scalable APIs to solve real-world problems.
 
 ---
 
@@ -11,30 +10,30 @@ Currently improving system design fundamentals and scalable API architecture.
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| **Research Validator** | AI-powered system for analyzing and structuring research credibility signals | FastAPI · LLM Integration · Data Processing |
-| **Alvora.ai** | AI-driven career exploration platform integrating structured LLM workflows | Next.js · FastAPI · OpenAI API |
-| **Instagram Automation Framework** | Backend automation service with scheduled workflows and API integrations | FastAPI · APScheduler |
-| **Achi Game** | Algorithm-focused Tic Tac Toe variant exploring logic & state management | Python · JavaScript |
+| **Prospect Intelligence Engine** | AI-powered lead intelligence system that processes and ranks business prospects using web scraping, deterministic scoring, and structured outputs (HOT/WARM/LOW) | Python · Data Pipelines · Automation |
+| **NovaOps Agent** | Multi-agent AI system that automates recruiting workflows using coordinated agents for screening, interview simulation, and evaluation | Python · AWS Bedrock · LLMs |
+| **Alvora AI** | Full-stack AI career platform with LLM-powered resume analysis and personalized learning paths, deployed on AWS | FastAPI · React · PostgreSQL |
+| **Sales Outreach AI Agent** | AI-driven outreach system with async pipelines, sentiment tagging, and analytics, used by 30+ users | FastAPI · OpenAI API · Backend Systems |
 
 ---
 
 ## Technical Stack
 
-**Languages:** Python · TypeScript · JavaScript · SQL · C++ · Java  
+**Languages:** Python · Java · C++ · JavaScript · SQL  
 
-**Backend & Web:** FastAPI · Node.js · Next.js · React  
+**Frameworks:** FastAPI · React · Node.js  
 
-**AI & Data:** Pandas · scikit-learn · LangChain · OpenAI API  
+**AI / ML:** OpenAI API · LangChain · PyTorch · TensorFlow  
 
-**Tools & Cloud:** Docker · GitHub Actions · Supabase · Firebase · Vercel  
+**Tools & Cloud:** AWS · Docker · PostgreSQL · Selenium · CI/CD  
 
 ---
 
 ## Current Focus
 
-- Backend architecture fundamentals  
-- AI system integration  
-- Writing cleaner, production-ready code  
+- Designing scalable backend systems  
+- Building multi-agent AI workflows  
+- Developing production-ready automation pipelines  
 
 ---
 
