@@ -1,43 +1,46 @@
 # Lakshya Pandey
 
-Computer Science student focused on **AI-driven automation systems, backend engineering, and data pipelines**.
+CS senior at Kent State (Dec 2026) building **AI agents, automation, and computer vision** that solve real problems for real users.
 
-I build systems that combine LLMs, structured workflows, and scalable APIs to solve real-world problems.
+I like taking an idea from prototype to something people actually use: LLM agents with tools and human review, retrieval pipelines, and real time vision systems.
 
 ---
 
 ## Selected Projects
 
-| Project | Description | Tech |
+| Project | What it does | Tech |
 |----------|-------------|------|
-| **Prospect Intelligence Engine** | AI-powered lead intelligence system that processes and ranks business prospects using web scraping, deterministic scoring, and structured outputs (HOT/WARM/LOW) | Python · Data Pipelines · Automation |
-| **NovaOps Agent** | Multi-agent AI system that automates recruiting workflows using coordinated agents for screening, interview simulation, and evaluation | Python · AWS Bedrock · LLMs |
-| **Alvora AI** | Full-stack AI career platform with LLM-powered resume analysis and personalized learning paths, deployed on AWS | FastAPI · React · PostgreSQL |
-| **Sales Outreach AI Agent** | AI-driven outreach system with async pipelines, sentiment tagging, and analytics, used by 30+ users | FastAPI · OpenAI API · Backend Systems |
+| **[Hazard Lens](https://github.com/meherajkhatri/Hazard-Lens)** | Real time workplace safety system that detects worker falls from USB and IP cameras at 31 FPS, with a per person fall state machine, unresponsive worker alerts, and a live dashboard. 129 automated tests. Built at Hack Dearborn 2026. | YOLOv8 Pose · ByteTrack · OpenCV · FastAPI · React |
+| **Alvora AI** | AI interview screening platform used by 837+ registered users. Multi agent pipeline generates questions, scores answers on configurable rubrics, and writes reports. | LangGraph · OpenAI / Gemini · FastAPI · PostgreSQL · AWS |
+| **AI Harm Taxonomy Classifier** (research) | LLM classifier that maps AI incident reports to a 66+ class harm taxonomy using retrieved examples and schema validated output. Evaluated with macro F1 and Cohen's kappa against human labels. Poster selected for SHPE 2026. | Python · OpenAI API · sentence-transformers · FAISS · scikit-learn |
+| **[NovaOps Agent](https://github.com/LFGHcoder/NovaOps-Agent)** | Multi agent system that automates recruiting workflows: resume screening, interview planning, and candidate evaluation. | Python · AWS Bedrock (Amazon Nova) |
+| **[Research Validator](https://github.com/LFGHcoder/research-validator)** | API that extracts factual claims from text, searches for supporting evidence, and scores credibility using embeddings. | FastAPI · OpenAI Embeddings · Semantic Search |
+| **[n8n Email Automation](https://github.com/LFGHcoder/n8n-email-automation)** | Low code workflow that reads Gmail, drafts responses with OpenAI, and logs everything to Google Sheets. | n8n · OpenAI · Google Workspace |
+| **[Prospect Intelligence Engine](https://github.com/LFGHcoder/Prospect-Intelligence-Engine)** | Lead intelligence pipeline that scrapes, scores, and ranks business prospects into HOT / WARM / LOW tiers. | Python · Web Scraping · Data Pipelines |
 
 ---
 
-## Technical Stack
+## Tech Stack
 
-**Languages:** Python · Java · C++ · JavaScript · SQL  
+**Languages:** Python · SQL · JavaScript / TypeScript · Java · C++
 
-**Frameworks:** FastAPI · React · Node.js  
+**AI / ML:** LangGraph · LangChain · OpenAI API · PyTorch · scikit-learn · sentence-transformers · FAISS · YOLOv8 · OpenCV
 
-**AI / ML:** OpenAI API · LangChain · PyTorch · TensorFlow  
+**Backend & Data:** FastAPI · PostgreSQL · Supabase · pandas · REST APIs
 
-**Tools & Cloud:** AWS · Docker · PostgreSQL · Selenium · CI/CD  
+**Cloud & Tools:** AWS · Docker · Git · CI/CD · n8n
 
 ---
 
-## Current Focus
+## What I'm Focused On
 
-- Designing scalable backend systems  
-- Building multi-agent AI workflows  
-- Developing production-ready automation pipelines  
+- Agent workflows with tool use, orchestration, and human in the loop review
+- Retrieval and evaluation: making LLM output measurable and reliable
+- Computer vision for safety and operations
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/lakshya-pandey-  
+LinkedIn: [linkedin.com/in/lakshya-pandey-](https://www.linkedin.com/in/lakshya-pandey-)
 Email: lakshyapandey242@gmail.com
